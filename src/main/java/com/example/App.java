@@ -11,6 +11,7 @@ public class App
     public static void main( String[] args )
     {
     
+        //Hay que deshabilitar copilot!
 
     Scanner scanner = new Scanner(System.in);
     System.out.println("Ingresa una coordenada (ejemplo: a1): ");
